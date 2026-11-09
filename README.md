@@ -45,9 +45,9 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 ### Featured Projects
 
-#### [ShifoAI — Medical LLM Platform for Uzbek Healthcare](https://zizx4um.github.io/)
+#### [ShifoAI — Medical LLM Platform for Uzbek Healthcare](https://shifoai.site)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Live](https://img.shields.io/badge/Website-zizx4um.github.io-0ea5e9?style=flat-square)
+![Live](https://img.shields.io/badge/Live%20Platform-shifoai.site-0ea5e9?style=flat-square)
 ![Foundation](https://img.shields.io/badge/Foundation-MedGemma-blue?style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -55,7 +55,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 - Clinical triage and medical question-answering assistant fine-tuned with Google's **MedGemma**.
 - End-to-end symptom assessment, differential triage suggestions, and bilingual consultation flows with FastAPI backend and React frontend.
-- **Website Showcase**: [zizx4um.github.io](https://zizx4um.github.io/)
+- **Live Platform**: [https://shifoai.site](https://shifoai.site)
 - **Repository**: [github.com/Zizx4uM/shifoai-uzbek-mvp](https://github.com/Zizx4uM/shifoai-uzbek-mvp)
 
 #### NazoratAI — Banking Corporate Credit Monitoring & Early Warning System (EWS)

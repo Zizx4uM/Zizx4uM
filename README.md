@@ -47,7 +47,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 #### [ShifoAI — Medical LLM Platform for Uzbek Healthcare](https://shifoai.site)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Live](https://img.shields.io/badge/Live%20Platform-shifoai.site-0ea5e9?style=flat-square)
+[![Live Platform](https://img.shields.io/badge/Live%20Platform-shifoai.site-0ea5e9?style=flat-square)](https://shifoai.site)
 ![Foundation](https://img.shields.io/badge/Foundation-MedGemma-blue?style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)

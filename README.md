@@ -58,7 +58,9 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 - **Live Platform**: [https://shifoai.site](https://shifoai.site)
 - **Repository**: [github.com/Zizx4uM/shifoai-uzbek-mvp](https://github.com/Zizx4uM/shifoai-uzbek-mvp)
 
-#### NazoratAI — Banking Corporate Credit Monitoring & Early Warning System (EWS)
+#### [NazoratAI — Banking Corporate Credit Monitoring & Early Warning System (EWS)](https://www.nazoratai.uz/)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+[![Live Platform](https://img.shields.io/badge/Live%20Platform-nazoratai.uz-10b981?style=flat-square)](https://www.nazoratai.uz/)
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?style=flat-square&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![API](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -67,6 +69,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 - Enterprise credit surveillance platform monitoring 600+ corporate loan borrowers across industrial sectors.
 - Combines continuous portfolio ingestion, statutory Central Bank regulatory trigger engines, and SHAP-explainable machine learning credit scoring models.
+- **Live Platform**: [https://www.nazoratai.uz](https://www.nazoratai.uz/)
 - **Repository**: [github.com/Zizx4uM/NazoratAI](https://github.com/Zizx4uM/NazoratAI)
 
 #### MicroCropNet — TinyML Crop Pathology On-Device

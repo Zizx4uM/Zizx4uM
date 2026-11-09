@@ -37,7 +37,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
   - Applied symmetric uniform 8-bit integer (INT8) Post-Training Quantization, fitting the complete model into a 34.95 KB Flash footprint (1.71% of available 2 MB Flash on ESP32-CAM) and 36.86 KB peak SRAM.
   - Demonstrated 100.0% Top-1 accuracy and 1.0000 macro F1-score across foliar pathologies (Early Blight, Late Blight, Bacterial Spot, Healthy).
   - Measured hardware execution latency of 2.9 ms and 0.76 mJ energy consumption per inference, enabling multi-year autonomous battery and solar operation.
-- **Code Repository**: [github.com/Zizx4uM/tinyml_crop_disease](https://github.com/Zizx4uM/tinyml_crop_disease)
+- **Code Repository**: [github.com/Zizx4uM/tinyml-crop-disease](https://github.com/Zizx4uM/tinyml-crop-disease)
 
 ---
 
@@ -63,7 +63,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 - Enterprise credit surveillance platform monitoring 600+ corporate loan borrowers across industrial sectors.
 - Combines continuous portfolio ingestion, statutory Central Bank regulatory trigger engines, and SHAP-explainable machine learning credit scoring models.
-- **Repository**: [github.com/Zizx4uM/nazorat_ai](https://github.com/Zizx4uM/nazorat_ai)
+- **Repository**: [github.com/Zizx4uM/NazoratAI](https://github.com/Zizx4uM/NazoratAI)
 
 #### MicroCropNet — TinyML Crop Pathology On-Device
 ![Target](https://img.shields.io/badge/Target-ESP32--CAM-red?style=flat-square)
@@ -73,7 +73,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 - On-device real-time agricultural diagnostics running quantized neural networks directly on microcontroller-class hardware.
 - Complete hardware profiling, offline inference pipeline, and embedded sensor camera integration.
-- **Repository**: [github.com/Zizx4uM/tinyml_crop_disease](https://github.com/Zizx4uM/tinyml_crop_disease)
+- **Repository**: [github.com/Zizx4uM/tinyml-crop-disease](https://github.com/Zizx4uM/tinyml-crop-disease)
 
 #### High-Performance CUDA GPU Computing
 ![Compute](https://img.shields.io/badge/Architecture-Ada%20Lovelace-76B900?style=flat-square&logo=nvidia&logoColor=white)

@@ -3,7 +3,9 @@
 # Azizbek Xajibayev
 
 ### AI Engineer & Systems Developer
+**[https://zizx4um.github.io](https://zizx4um.github.io/)**
 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-zizx4um.github.io-0ea5e9?style=flat-square)](https://zizx4um.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xajibayev-a8787226a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zizx4uM)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ZaaX19)
@@ -43,8 +45,9 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 ### Featured Projects
 
-#### ShifoAI — Medical LLM Platform for Uzbek Healthcare
+#### [ShifoAI — Medical LLM Platform for Uzbek Healthcare](https://zizx4um.github.io/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Live](https://img.shields.io/badge/Website-zizx4um.github.io-0ea5e9?style=flat-square)
 ![Foundation](https://img.shields.io/badge/Foundation-MedGemma-blue?style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -52,6 +55,7 @@ AI Engineer and Systems Developer specializing in clinical Generative AI, edge T
 
 - Clinical triage and medical question-answering assistant fine-tuned with Google's **MedGemma**.
 - End-to-end symptom assessment, differential triage suggestions, and bilingual consultation flows with FastAPI backend and React frontend.
+- **Website Showcase**: [zizx4um.github.io](https://zizx4um.github.io/)
 - **Repository**: [github.com/Zizx4uM/shifoai-uzbek-mvp](https://github.com/Zizx4uM/shifoai-uzbek-mvp)
 
 #### NazoratAI — Banking Corporate Credit Monitoring & Early Warning System (EWS)
